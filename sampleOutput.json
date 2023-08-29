@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch the treacherous journeys out of wildfire-hit Canada",
+            "description": "Shocking video of smoke-filled routes are shared online as deadlines to evacuate the Northwest Territories looms.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66542388",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DA9B/production/_130836955_p0g7gc00.jpg",
+            "publishedAt": "2023-08-18T10:22:14.786213Z",
+            "content": "More than 200 fires are spreading across the Northwest Territories. Thousands of people have been given a deadline to get out and leave their homes behind in Yellowknife, but many started to evacuate… [+108 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Abused and stalked, US election workers are bracing for 2024",
+            "description": "Threats to blow up polling stations. Police protection. Ballot counters in hiding. A grim new reality.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66540466",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/163FD/production/_130833119_election11.jpg",
+            "publishedAt": "2023-08-18T09:37:20.0519112Z",
+            "content": "As former US President Donald Trump and his allies face charges of plotting to overturn vote results in the state of Georgia, poll workers say false claims of ballot fraud have had an enduring impact… [+7134 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Georgia investigates threats against Trump jury",
+            "description": "Personal information of grand jury members who indicted Donald Trump this week were shared online.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66542193",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FCE7/production/_130834746_gettyimages-1601613296.jpg",
+            "publishedAt": "2023-08-18T09:07:22.4774729Z",
+            "content": "Officials in the US state of Georgia are investigating online threats made against members of the grand jury that indicted Donald Trump on Monday.\r\nPersonal information, including the addresses and p… [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada fires: Race to evacuate Yellowknife as wildfires rage",
+            "description": "Yellowknife residents have been told to evacuate by noon on Friday as fires bear down on the city.",
+            "url": "http://www.bbc.co.uk/news/live/world-us-canada-66542676",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-08-18T08:52:23.8963479Z",
+            "content": "As we've been reporting, a wildfire is fast approaching the small city of Yellowknife in Canadas Northwest Territories.\r\nAuthorities have ordered the approximately 20,000 people who call Yellowknife … [+640 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Drone attack hits building in central Moscow",
+            "description": "Russian officials say air defences shot down the drone and its debris landed on the city's Expo Center.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66541027",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2023-08-18T02:52:19.2868514Z",
+            "content": "A Ukrainian drone attack has hit a building in Moscow, causing an explosion that was heard across the city's business district, Russian officials have said.\r\nMayor Sergei Sobyanin said air defences h… [+301 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hawaii wildfires: Maui emergency chief quits after sirens criticism",
+            "description": "Hawaii residents tell the BBC a stronger emergency response could have saved more lives from the blaze.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66540472",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3929/production/_130833641_lahaina.jpg",
+            "publishedAt": "2023-08-18T02:52:17.9590569Z",
+            "content": "Media caption, \"There's a lack of response, it felt like\"\r\nMaui's emergency management chief has quit a day after defending his agency's failure to activate its alarm system in last week's fatal wild… [+4146 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada wildfire: Yellowknife evacuees turned away from full flights",
+            "description": "Thousands of residents desperate to flee Yellowknife are told to return on Friday as planes fill up.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66539828",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6FB0/production/_130829582_p0g79m3l.jpg",
+            "publishedAt": "2023-08-18T02:07:19.9436541Z",
+            "content": "Angry residents of Yellowknife have been turned away from packed evacuation flights as a wildfire bears down upon the northern Canadian city.\r\nPeople who waited in hours-long queues to board flights … [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Transgender women banned from women's chess events",
+            "description": "The ruling by the International Chess Federation is drawing criticism from some players.",
+            "url": "http://www.bbc.co.uk/news/world-66538328",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E81/production/_130831730_76afb58f1258fc6cca51e2e561f06ebf9595e56d.jpg",
+            "publishedAt": "2023-08-17T20:22:20.9106344Z",
+            "content": "The International Chess Federation (FIDE) says it is temporarily banning transgender women from competing in its women's events.\r\nThe FIDE said individual cases would require \"further analysis\" and t… [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The moment woman surprised by bear at her front door",
+            "description": "A doorbell camera recorded a woman and her dog coming face-to-face with a bear outside her home",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66537666",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A10/production/_130829588_p0g7ckrx.jpg",
+            "publishedAt": "2023-08-17T18:52:18.7853606Z",
+            "content": "In Daytona, Florida Gina Helsel and her dog Stewart came face-to-face with a bear just outside her home in the early morning. \r\nShe told the BBC that it wasn't until a day later that she saw the foot… [+230 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Britney Spears and husband Sam Asghari split, US media say",
+            "description": "The couple married in June 2022 soon after the termination of the pop star's conservatorship.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66529567",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/91CA/production/_130822373_gettyimages-1163710142.jpg",
+            "publishedAt": "2023-08-17T07:37:14.4250704Z",
+            "content": "Pop star Britney Spears and her husband Sam Asghari have split after 14 months of marriage, according to US media reports.\r\nThe couple first met on the set of a Spears music video in 2016, and were m… [+1587 chars]"
+        }
+    ]
+}
